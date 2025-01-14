@@ -3,3 +3,33 @@ neural networks or Artificial Neural Networks: type of machine learning often co
 
 Deep Neural Network  ->  Neural Network  ->  ML  -> AI (![alt text](image-1.png))
 
+Here’s a summary with the key points:
+
+# Machine Learning Types**: 
+  - **Supervised Learning**: Uses labeled data to train models for tasks like classification (e.g., predicting "normal" vs. "failure" for server data).
+  - **Unsupervised Learning**: Finds patterns in unlabeled data.
+  - **Regression**: Predicts continuous numerical values (e.g., stock prices).
+  
+# Example: 
+    - **Sensor data from a server, including metrics like upload/download rates, temperature, and humidity, is used for failure prediction. The data is labeled as "normal" or "failure," and the goal is to train a model to predict server failure based on this data.
+
+# - **Features and Samples**: Sensor measurements are called features, and a group of features forms a sample, which is used to train machine learning models.
+
+# - **Classification**: The task of categorizing data into predefined labels (e.g., "normal" or "failure").
+
+# - **Neural Networks**: Used for both classification and regression tasks in machine learning.
+
+The focus is on classification and regression with neural networks, but it opens the door to other learning methods like reinforcement and semi-supervised learning.
+
+    Since 2010, neural networks have been on a meteoric rise due to their sometimes seemingly magical ability to solve problems previously deemed unsolvable, such as image captioning, language translation, audio and video synthesis, and more.
+
+Currently, neural networks are the primary solution to most competitions and challenging technological problems like self-driving cars, calculating risk, detecting fraud, and early cancer detection, to name a few.
+
+
+##                                                                       What is a Neural Network?                                                                               ##
+
+“Artificial” neural networks are inspired by the organic brain, translated to the compute
+
+(Introducing Neural Networks Chapter 1/NN demenstration.png)
+
+
